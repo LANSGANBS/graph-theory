@@ -12,7 +12,6 @@ using namespace std;
 
 void solve()
 {
-    
     // wout <<L" "<<endl;
     // cout << R"( )" << endl;
 }
